@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Assalamualaikum Wr. Wb
+-->
 My Name is Abdul Karim
-🔭 I’m currently working on Depart. of Cooperative, SME, Trade and Industry Cirebon City
+-->
+I’m currently working on Depart. of Cooperative, SME, Trade and Industry Cirebon City
