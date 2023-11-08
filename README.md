@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 Assalamualaikum Wr. Wb
 -->
-My Name is Abdul Karim
+I'm Abdul Karim
 -->
-I’m currently working on Legal Metrology of Depart. of Cooperative, SME, Trade and Industry Cirebon City
+currently working on Legal Metrology of Depart. of Cooperative, SME, Trade and Industry Cirebon City
