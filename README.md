@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Assalamualaikum Wr. Wb
 My Name is Abdul Karim
-Assalamualaikum Warrohmatullah
+🔭 I’m currently working on Depart. of Cooperative, SME, Trade and Industry Cirebon City
