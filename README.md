@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Haloo apa khabar
-Assalamualaikum
+My Name is Abdul Karim
+Assalamualaikum Warrohmatullah
