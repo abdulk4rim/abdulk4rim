@@ -1,21 +1,11 @@
-### Hi there 👋
+### Assalamu'alaikum 👋
 
-<!--
-**abdulk4rim/abdulk4rim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Abdul Karim, and presently, I am furthering my understanding in the field of Data Science. I firmly believe that this academic discipline holds the potential to generate tangible innovations for not only myself but also for the institution and other.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at Departement Cooperative, SMEs, Trade and Industri of Cirebon City, West Java, Indonesia
+- 🌱 I’m currently learning about Data Science and Bussiness Analysis
+- 👯 I am seeking opportunities to collaborate on small projects in the field of Data Science
+- 📫 Reach me: abdul23005@mail.unpad.ac.id
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-Assalamualaikum Wr. Wb
--->
-I'm Abdul Karim
--->
-currently working on Legal Metrology of Depart. of Cooperative, SME, Trade and Industry Cirebon City
+
+
